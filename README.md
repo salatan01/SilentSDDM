@@ -1,4 +1,8 @@
 > [!WARNING]
+>
+> THIS IS NOT MY WORK . IM JUST EXPERINMENTING WITH IT . THE ORIGINAL OWNER IS https://github.com/uiriansan/SilentSDDM
+>
+> 
 > This theme requires **SDDM v0.21.0 or newer**. Make sure your distro provides the correct version before installing.
 
 > [!IMPORTANT]
